@@ -1,9 +1,8 @@
-```
-**ENTER YOUR NAME: ABINAYA S
-ENTER YOUR REGISTER NO: 212222230002**
-```
+## ENTER YOUR NAME: ABINAYA S
+## ENTER YOUR REGISTER NO: 212222230002
+
 ## EX. NO.3
-DATE-
+## DATE-
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks</H1>
 
 ### Aim: 
