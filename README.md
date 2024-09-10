@@ -1,9 +1,8 @@
 ## ENTER YOUR NAME: ABINAYA S
 ## ENTER YOUR REGISTER NO: 212222230002
-
-## EX. NO.3
 ## DATE-
-<H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks</H1>
+
+## EX. NO.3 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks</H1>
 
 ### Aim: 
    To construct a python program to implement approximate inference using Gibbs Sampling.
@@ -132,7 +131,9 @@ print(query_result),
 
 ![32](https://github.com/user-attachments/assets/e0ae75b0-a784-4b26-81ad-b7baf5017184)
 
-![33](https://github.com/user-attachments/assets/f80e8fa7-418f-4b7c-8a54-37ee988adc53)
+![33](https://github.com/user-attachments/assets/d0e5e2fc-9aee-4858-b7f2-0677759543e6)
+
+
 
 ### Result:
 Thus, Gibb's Sampling( Approximate Inference method) is succuessfully implemented using python.
